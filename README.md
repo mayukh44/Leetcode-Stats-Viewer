@@ -4,7 +4,6 @@ A clean and responsive web app that fetches and displays a user's Leetcode stats
 
 ## 🌐 Live Demo
 
-(You can deploy it and add your link here, like GitHub Pages or Vercel)
 
 ## 🚀 Features
 
